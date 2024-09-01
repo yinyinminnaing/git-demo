@@ -6,7 +6,7 @@
 This repository demostrates git branching ,commit and push , and also collaborators work.
 
 ## **Contributing**
-- **[Contributor Name](https://github.com/ZawCho-ZC)**
+- **[Contributor Name ZawCho-ZC](https://github.com/ZawCho-ZC)**
 
 
 
