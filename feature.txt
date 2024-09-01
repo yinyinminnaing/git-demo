@@ -1,3 +1,7 @@
 This is a new feature .
 
 This is second new feature.(ZC)
+
+This is second new feature.
+
+This is third new feature.(from ZC)
